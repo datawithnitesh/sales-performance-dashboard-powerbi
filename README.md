@@ -6,16 +6,16 @@ This project analyzes sales performance across regions, categories, and customer
 ---
 
 
-### 🔹 KPI Section
+### 🔹sales-dashboard-overview
 ![KPI](images/kpi-section.png)
 
-## 📸 Dashboard Preview
+## 📸 sales-kpi-summary
 ![Sales Dashboard](images/sales-preview.png)
 
-### 🔹 Profit Analysis
+### 🔹 sales-profit-analysis
 ![Profit](images/profit-analysis.png)
 
-### 🔹 Customer Insights
+### 🔹 sales-customer-insights
 ![Customer](images/customer-insights.png)
 ---
 
